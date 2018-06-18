@@ -42,6 +42,10 @@
 * [**How should a beginner get started on Kaggle?**](https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle) Check first Answer
 * [**The tips and tricks used to succeed on Kaggle**](https://www.dataquest.io/blog/kaggle-tips-tricks/)
 * [**The Beginner’s Guide to Kaggle**](https://elitedatascience.com/beginner-kaggle)
-* [****]()
+* [**How to Rank 10% in Your First Kaggle Competition**](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+* [**Winning Tips on Machine Learning Competitions**](https://www.hackerearth.com/practice/machine-learning/advanced-techniques/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3/tutorial/)
+* [**10 Steps to Success in Kaggle Data Science Competitions**](https://www.kdnuggets.com/2015/03/10-steps-success-kaggle-data-science-competitions.html)
+* [**Top mistakes beginners make while learning data science (Part 1)**](https://www.edvancer.in/top-mistakes-beginners-make-learning-data-science-part-1/)
+* [**Top mistakes beginners make while learning data science (Part 2)**](https://www.edvancer.in/top-mistakes-beginners-learning-data-science-part2/)
 
 ## Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
