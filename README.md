@@ -2,7 +2,7 @@
 
 
 
-## [**Machine Learning Glossary**](https://developers.google.com/machine-learning/glossary/)
+## [**Machine Learning Glossary**](https://developers.google.com/machine-learning/glossary/) (Must Read)
 
 ## Step by Step beginner's Guide to Data Science (Follow Order)
 
