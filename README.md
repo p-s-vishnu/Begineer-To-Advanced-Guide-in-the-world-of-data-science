@@ -4,7 +4,7 @@
 
 ## [**Machine Learning Glossary**](https://developers.google.com/machine-learning/glossary/)
 
-## Step by Step beginner's Guide to Data Science
+## Step by Step beginner's Guide to Data Science (Follow Order)
 
 1. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
 2. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
