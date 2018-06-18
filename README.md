@@ -4,6 +4,8 @@
 
 ## [**Machine Learning Glossary**](https://developers.google.com/machine-learning/glossary/)
 
+## Step by Step beginner's Guide to Data Science
+
 1. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
 2. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
 3. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
@@ -35,6 +37,11 @@
 * [**With all the Data Science and Machine Learning resources out there, here are 7 Great websites to learn from**](https://www.linkedin.com/feed/update/urn:li:activity:6356543614205722624/)
 * [**Best Machine Learning Slides**](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g24521cd995_0_575)
 
+## Kaggle Tips
 
+* [**How should a beginner get started on Kaggle?**](https://www.quora.com/How-should-a-beginner-get-started-on-Kaggle) Check first Answer
+* [**The tips and tricks used to succeed on Kaggle**](https://www.dataquest.io/blog/kaggle-tips-tricks/)
+* [**The Beginner’s Guide to Kaggle**](https://elitedatascience.com/beginner-kaggle)
+* [****]()
 
 ## Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
