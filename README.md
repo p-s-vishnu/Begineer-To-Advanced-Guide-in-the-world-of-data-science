@@ -48,4 +48,17 @@
 * [**Top mistakes beginners make while learning data science (Part 1)**](https://www.edvancer.in/top-mistakes-beginners-make-learning-data-science-part-1/)
 * [**Top mistakes beginners make while learning data science (Part 2)**](https://www.edvancer.in/top-mistakes-beginners-learning-data-science-part2/)
 
+## Web Scraping
+
+* [**How to Scrape Websites with Python & BeautifulSoup**](https://lnkd.in/g96Mxaw)
+* [**Web Scraping, Regular Expressions, & Data Visualization: Doing it All in Python**](https://lnkd.in/gmpw2QE)
+* [**A Short-Practical HOW-TO Guide to Webscrape with Python**](https://lnkd.in/gYqsWs9)
+* [**Intro to Web Scraping with Python and Beautiful Soup**](https://lnkd.in/gfVMMrh)
+* [**Webscraping with Python Tips & Tricks**](https://lnkd.in/gimeCYD)
+* [**Webscraping Using Scrapy**](https://lnkd.in/gEvVWvn)
+* [**Data Quest Python API Tutorial**](https://lnkd.in/gsXw_hh)
+* [**Codeacademy - How to Use APIs in Python**](https://lnkd.in/gX7gUBb)
+* [**List of Python APIs**](https://lnkd.in/gPr5rWf)
+
+
 ## Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
