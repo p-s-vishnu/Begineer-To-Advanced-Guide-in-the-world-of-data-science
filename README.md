@@ -61,4 +61,8 @@
 * [**List of Python APIs**](https://lnkd.in/gPr5rWf)
 
 
-## Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
+### Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
+
+## Excellent Project on Deep Learning
+
+* [**Projects from Stanford's CS230 (Deep Learning) class**](http://cs230.stanford.edu/proj-spring-2018.html)
