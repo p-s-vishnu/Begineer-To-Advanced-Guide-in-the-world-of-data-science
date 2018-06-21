@@ -63,6 +63,6 @@
 
 ### Special Thanks : [**Randy Lao**](https://www.linkedin.com/in/randylaosat/)
 
-## Excellent Project on Deep Learning
+## Excellent Projects on Deep Learning
 
 * [**Projects from Stanford's CS230 (Deep Learning) class**](http://cs230.stanford.edu/proj-spring-2018.html)
