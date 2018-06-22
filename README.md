@@ -22,6 +22,7 @@
 
 * [**How to start a good Machine Learning project?**](https://www.linkedin.com/feed/update/urn:li:activity:6364745036768382976/)
 * [**A Comprehensive Guide to Ensemble Learning (with Python codes)**](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=linkedin.com)
+* [**Ensembling Multiple Machine Learning Models**](http://www.urbanstat.com/ensembling-multiple-machine-learning-models/)
 * [**Precison and Recall**](https://en.wikipedia.org/wiki/Precision_and_recall)
 * [**Gradient Boosting from scratch**](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
 * [**So you built a Machine Learning model?(Bias and Varience)**](http://sourabhbajaj.com/blog/2017/03/16/so-you-built-a-machine-learning-model/)
