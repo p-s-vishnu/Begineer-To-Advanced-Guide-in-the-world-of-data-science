@@ -20,6 +20,7 @@
 
 ## Must Read Articles(There is no order)
 
+* [**5 Skills you need as a Machine learning engineer**](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 * [**How to start a good Machine Learning project?**](https://www.linkedin.com/feed/update/urn:li:activity:6364745036768382976/)
 * [**A Comprehensive Guide to Ensemble Learning (with Python codes)**](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=linkedin.com)
 * [**Ensembling Multiple Machine Learning Models**](http://www.urbanstat.com/ensembling-multiple-machine-learning-models/)
