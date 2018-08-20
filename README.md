@@ -68,3 +68,16 @@
 ## Excellent Projects on Deep Learning
 
 * [**Projects from Stanford's CS230 (Deep Learning) class**](http://cs230.stanford.edu/proj-spring-2018.html)
+
+
+## Cheatsheet
+
+### Resources for CS 229 - Machine Learning
+* [**Linear Algebra and Calculus cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics.html)
+* [**Probabilities and Statistics cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics.html)
+* [**Supervised Learning cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
+* [**Unsupervised Learning cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
+* [**Machine Learning tips and tricks cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
+* [**Deep Learning cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+
+* [**Super cheatsheet Machine Learning**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/super-cheatsheet-machine-learning.pdf)
