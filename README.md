@@ -85,3 +85,5 @@
 # MONTRÉAL.AI | Montréal Artificial Intelligence
 
 * [**Montréal Artificial Intelligence Overview**](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
+
+* [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
