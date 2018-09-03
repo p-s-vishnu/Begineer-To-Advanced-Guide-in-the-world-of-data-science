@@ -81,3 +81,10 @@
 * [**Deep Learning cheatsheet Stanford**](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
 
 * [**Super cheatsheet Machine Learning**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/super-cheatsheet-machine-learning.pdf)
+
+
+# MONTRÉAL.AI | Montréal Artificial Intelligence
+
+* [**Montréal Artificial Intelligence Overview**](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
+
+* [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
