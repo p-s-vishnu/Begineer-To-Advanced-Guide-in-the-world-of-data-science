@@ -97,3 +97,6 @@
   * [**How to solve 90% of NLP problems: a step-by-step guide**](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
   * [**Extensive Text Data Feature Engineering**](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering/notebook)
   * [**Text Data Preprocessing: A Walkthrough in Python**](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
+* Ensembling/Stacking
+  * [**Introduction to Ensembling/Stacking in Python**](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+  * [**Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM**](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
