@@ -87,3 +87,13 @@
 * [**Montréal Artificial Intelligence Overview**](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
 
 * [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
+
+
+## Most Important Tutorial/Articles
+
+* [**Approaching (Almost) Any Machine Learning Problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+* Approaching (Almost) Any NLP Problem
+  * [**Approaching (Almost) Any NLP Problem on Kaggle**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+  * [**How to solve 90% of NLP problems: a step-by-step guide**](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
+  * [**Extensive Text Data Feature Engineering**](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering/notebook)
+  * [**Text Data Preprocessing: A Walkthrough in Python**](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
