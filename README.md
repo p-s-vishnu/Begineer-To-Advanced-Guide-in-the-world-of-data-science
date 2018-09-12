@@ -100,3 +100,10 @@
 * Ensembling/Stacking
   * [**Introduction to Ensembling/Stacking in Python**](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
   * [**Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM**](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
+
+
+## Cheat Sheets
+
+* [**SQL Cheat Sheet**](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
+* [**Data Visualization Cheat Sheet**](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
+* [**Python Regular Expressions Cheat Sheet**](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
