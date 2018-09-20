@@ -88,3 +88,23 @@
 * [**Montréal Artificial Intelligence Overview**](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
 
 * [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
+
+
+## Most Important Tutorial/Articles
+
+* [**Approaching (Almost) Any Machine Learning Problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+* Approaching (Almost) Any NLP Problem
+  * [**Approaching (Almost) Any NLP Problem on Kaggle**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+  * [**How to solve 90% of NLP problems: a step-by-step guide**](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
+  * [**Extensive Text Data Feature Engineering**](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering/notebook)
+  * [**Text Data Preprocessing: A Walkthrough in Python**](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
+* Ensembling/Stacking
+  * [**Introduction to Ensembling/Stacking in Python**](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+  * [**Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM**](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
+
+
+## Cheat Sheets
+
+* [**SQL Cheat Sheet**](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
+* [**Data Visualization Cheat Sheet**](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
+* [**Python Regular Expressions Cheat Sheet**](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
