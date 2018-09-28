@@ -6,6 +6,8 @@
 
 ## Step by Step beginner's Guide to Data Science (Follow Order)
 
+* [**How to start in Data Science**](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/)
+
 1. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
 2. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
 3. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
