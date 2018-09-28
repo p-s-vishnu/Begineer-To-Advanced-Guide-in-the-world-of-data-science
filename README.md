@@ -6,19 +6,18 @@
 
 ## Step by Step beginner's Guide to Data Science (Follow Order)
 
-* [**How to start in Data Science**](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/)
-
-1. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
-2. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
-3. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
-4. [**A Tour of The Top 10 Algorithms for Machine Learning Newbies**](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
-5. [**List of Top 8 Essential Algorithms for Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6365105961912410112/)
-6. [**6 Steps to Storytelling Your Data Like a Senior Data Scientist**](https://www.codingwithmax.com/blog/6-steps-to-storytelling-data-scientist)
-7. [**Stanford Machine Learning Andrew Ng Notes**](http://www.holehouse.org/mlclass/) you can also watch videos[**Video Link**](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-8. [**Google Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/ml-intro)
-9. [**Some essential concepts for Data Science**](https://www.linkedin.com/feed/update/urn:li:activity:6385585685830733824/)
-10. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
-11. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
+1. [**How to start in Data Science**](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/)
+2. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
+3. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
+4. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
+5. [**A Tour of The Top 10 Algorithms for Machine Learning Newbies**](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+6. [**List of Top 8 Essential Algorithms for Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6365105961912410112/)
+7. [**6 Steps to Storytelling Your Data Like a Senior Data Scientist**](https://www.codingwithmax.com/blog/6-steps-to-storytelling-data-scientist)
+8. [**Stanford Machine Learning Andrew Ng Notes**](http://www.holehouse.org/mlclass/) you can also watch videos[**Video Link**](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+9. [**Google Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/ml-intro)
+10. [**Some essential concepts for Data Science**](https://www.linkedin.com/feed/update/urn:li:activity:6385585685830733824/)
+11. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
+12. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
 
 ## Must Read Articles(There is no order)
 
