@@ -18,6 +18,7 @@
 10. [**Some essential concepts for Data Science**](https://www.linkedin.com/feed/update/urn:li:activity:6385585685830733824/)
 11. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
 12. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
+13. [**The 6 Best Ways for Student Resumes to get noticed by Data Science Employers**](https://www.datascienceweekly.org/articles/the-6-best-ways-for-student-resumes-to-get-noticed-by-data-science-employers)
 
 ## Must Read Articles(There is no order)
 
