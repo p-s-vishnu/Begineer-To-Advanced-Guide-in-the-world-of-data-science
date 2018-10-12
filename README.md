@@ -6,17 +6,19 @@
 
 ## Step by Step beginner's Guide to Data Science (Follow Order)
 
-1. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
-2. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
-3. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
-4. [**A Tour of The Top 10 Algorithms for Machine Learning Newbies**](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
-5. [**List of Top 8 Essential Algorithms for Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6365105961912410112/)
-6. [**6 Steps to Storytelling Your Data Like a Senior Data Scientist**](https://www.codingwithmax.com/blog/6-steps-to-storytelling-data-scientist)
-7. [**Stanford Machine Learning Andrew Ng Notes**](http://www.holehouse.org/mlclass/) you can also watch videos[**Video Link**](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
-8. [**Google Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/ml-intro)
-9. [**Some essential concepts for Data Science**](https://www.linkedin.com/feed/update/urn:li:activity:6385585685830733824/)
-10. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
-11. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
+1. [**How to start in Data Science**](https://www.linkedin.com/pulse/how-start-data-science-marios-michailidis/)
+2. [**A Beginner’s Guide to the Data Science Pipeline**](https://towardsdatascience.com/a-beginners-guide-to-the-data-science-pipeline-a4904b2d8ad3)
+3. [**A Beginner's Guide to Machine Learning**](https://www.linkedin.com/pulse/machine-learning-fresh-bloods-randy-lao/)
+4. [**Machine Learning | What's Inside the Box**](https://www.linkedin.com/pulse/machine-learning-whats-inside-box-randy-lao/?published=t&lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BB5iUDIB3QqmlAnDAm2h22g%3D%3D)
+5. [**A Tour of The Top 10 Algorithms for Machine Learning Newbies**](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+6. [**List of Top 8 Essential Algorithms for Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6365105961912410112/)
+7. [**6 Steps to Storytelling Your Data Like a Senior Data Scientist**](https://www.codingwithmax.com/blog/6-steps-to-storytelling-data-scientist)
+8. [**Stanford Machine Learning Andrew Ng Notes**](http://www.holehouse.org/mlclass/) you can also watch videos[**Video Link**](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+9. [**Google Machine Learning Crash Course**](https://developers.google.com/machine-learning/crash-course/ml-intro)
+10. [**Some essential concepts for Data Science**](https://www.linkedin.com/feed/update/urn:li:activity:6385585685830733824/)
+11. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
+12. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
+13. [**The 6 Best Ways for Student Resumes to get noticed by Data Science Employers**](https://www.datascienceweekly.org/articles/the-6-best-ways-for-student-resumes-to-get-noticed-by-data-science-employers)
 
 ## Must Read Articles(There is no order)
 
@@ -88,3 +90,23 @@
 * [**Montréal Artificial Intelligence Overview**](https://montrealartificialintelligence.com/academy/#The-First-World-Class-Overview-of-AI-for-the-General-Public)
 
 * [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
+
+
+## Most Important Tutorial/Articles
+
+* [**Approaching (Almost) Any Machine Learning Problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+* Approaching (Almost) Any NLP Problem
+  * [**Approaching (Almost) Any NLP Problem on Kaggle**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+  * [**How to solve 90% of NLP problems: a step-by-step guide**](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
+  * [**Extensive Text Data Feature Engineering**](https://www.kaggle.com/shivamb/extensive-text-data-feature-engineering/notebook)
+  * [**Text Data Preprocessing: A Walkthrough in Python**](https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html)
+* Ensembling/Stacking
+  * [**Introduction to Ensembling/Stacking in Python**](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+  * [**Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM**](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
+
+
+## Cheat Sheets
+
+* [**SQL Cheat Sheet**](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
+* [**Data Visualization Cheat Sheet**](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
+* [**Python Regular Expressions Cheat Sheet**](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
