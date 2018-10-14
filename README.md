@@ -102,6 +102,9 @@
 * Ensembling/Stacking
   * [**Introduction to Ensembling/Stacking in Python**](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
   * [**Stacking Test-Sklearn, XGBoost, CatBoost, LightGBM**](https://www.kaggle.com/eliotbarr/stacking-test-sklearn-xgboost-catboost-lightgbm)
+* Deep learning for Computer Vision(For Images)
+  * [**InceptionV3 pretrained Model baseline**](https://www.kaggle.com/codename007/inceptionv3-baseline)
+  * [**How to Approach a Image problem**](https://www.kaggle.com/wrosinski/clean-workflow-in-keras)
 
 
 ## Cheat Sheets
