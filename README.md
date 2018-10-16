@@ -19,6 +19,7 @@
 11. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
 12. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
 13. [**The 6 Best Ways for Student Resumes to get noticed by Data Science Employers**](https://www.datascienceweekly.org/articles/the-6-best-ways-for-student-resumes-to-get-noticed-by-data-science-employers)
+14. [**How to deliver on Machine Learning projects**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
 ## Must Read Articles(There is no order)
 
