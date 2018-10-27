@@ -106,6 +106,23 @@
 * Deep learning for Computer Vision(For Images)
   * [**InceptionV3 pretrained Model baseline**](https://www.kaggle.com/codename007/inceptionv3-baseline)
   * [**How to Approach a Image problem**](https://www.kaggle.com/wrosinski/clean-workflow-in-keras)
+* [**Practical Text Classification With Python and Keras**](https://realpython.com/python-keras-text-classification/)
+  * Table of Contents
+    * Choosing a Data Set
+    * Defining a Baseline Model
+    * A Primer on (Deep) Neural Networks
+    * Introducing Keras
+    * Installing Keras
+    * Your First Keras Model
+    * What Is a Word Embedding?
+    * One-Hot Encoding
+    * Word Embeddings
+    * Keras Embedding Layer
+    * Using Pretrained Word Embeddings
+    * Convolutional Neural Networks (CNN)
+    * Hyperparameters Optimization
+    * Conclusion
+    * Further Reading
 
 
 ## Cheat Sheets
