@@ -19,6 +19,7 @@
 11. [**Some essential concepts of Machine Learning**](https://www.linkedin.com/feed/update/urn:li:activity:6380434586865930241/)
 12. [**List of 10 GREAT Data Science Projects to work on**](https://www.linkedin.com/feed/update/urn:li:activity:6363292959781326848/)
 13. [**The 6 Best Ways for Student Resumes to get noticed by Data Science Employers**](https://www.datascienceweekly.org/articles/the-6-best-ways-for-student-resumes-to-get-noticed-by-data-science-employers)
+14. [**How to deliver on Machine Learning projects**](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
 ## Must Read Articles(There is no order)
 
@@ -106,6 +107,23 @@
 * Deep learning for Computer Vision(For Images)
   * [**InceptionV3 pretrained Model baseline**](https://www.kaggle.com/codename007/inceptionv3-baseline)
   * [**How to Approach a Image problem**](https://www.kaggle.com/wrosinski/clean-workflow-in-keras)
+* [**Practical Text Classification With Python and Keras**](https://realpython.com/python-keras-text-classification/)
+  * Table of Contents
+    * Choosing a Data Set
+    * Defining a Baseline Model
+    * A Primer on (Deep) Neural Networks
+    * Introducing Keras
+    * Installing Keras
+    * Your First Keras Model
+    * What Is a Word Embedding?
+    * One-Hot Encoding
+    * Word Embeddings
+    * Keras Embedding Layer
+    * Using Pretrained Word Embeddings
+    * Convolutional Neural Networks (CNN)
+    * Hyperparameters Optimization
+    * Conclusion
+    * Further Reading
 
 
 ## Cheat Sheets
