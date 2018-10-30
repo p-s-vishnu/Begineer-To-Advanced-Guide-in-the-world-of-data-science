@@ -106,6 +106,7 @@
 * Deep learning for Computer Vision(For Images)
   * [**InceptionV3 pretrained Model baseline**](https://www.kaggle.com/codename007/inceptionv3-baseline)
   * [**How to Approach a Image problem**](https://www.kaggle.com/wrosinski/clean-workflow-in-keras)
+* [**Building Your First ConvNet**](https://blog.floydhub.com/building-your-first-convnet/)  
 * [**Practical Text Classification With Python and Keras**](https://realpython.com/python-keras-text-classification/)
   * Table of Contents
     * Choosing a Data Set
@@ -125,6 +126,9 @@
     * Further Reading
 * [**How to visualize decision trees**](http://explained.ai/decision-tree-viz/index.html)
 * [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
+* [**Asking questions to images with deep learning: a visual-question-answering tutorial**](https://blog.floydhub.com/asking-questions-to-images-with-deep-learning/)
+* [**Turning Design Mockups Into Code With Deep Learning**](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+* [**Checkpointing Tutorial for TensorFlow, Keras, and PyTorch**](https://blog.floydhub.com/checkpointing-tutorial-for-tensorflow-keras-and-pytorch/)
 
 ## Cheat Sheets
 
