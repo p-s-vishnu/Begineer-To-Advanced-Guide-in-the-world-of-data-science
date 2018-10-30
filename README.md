@@ -92,7 +92,7 @@
 * [**Five principles for applying data science for social good**](https://www.oreilly.com/ideas/five-principles-for-applying-data-science-for-social-good)
 
 
-## Most Important Tutorial/Articles
+## Most Important Tutorial/Articles(Practical)
 
 * [**Approaching (Almost) Any Machine Learning Problem**](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * Approaching (Almost) Any NLP Problem
