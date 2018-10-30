@@ -123,7 +123,8 @@
     * Hyperparameters Optimization
     * Conclusion
     * Further Reading
-
+* [**How to visualize decision trees**](http://explained.ai/decision-tree-viz/index.html)
+* [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
 
 ## Cheat Sheets
 
