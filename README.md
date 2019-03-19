@@ -135,3 +135,19 @@
 * [**SQL Cheat Sheet**](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
 * [**Data Visualization Cheat Sheet**](https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html)
 * [**Python Regular Expressions Cheat Sheet**](https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html)
+
+## Very Well Explained Articles/Tutorials
+
+* Machine Learning
+* Linear Regression
+* Logistic Regression
+* Support Vector Machine(SVM)
+* K-Mean Algorithm
+* K-Nearest Algorithm
+* Principal Component Analysis(PCA)
+* XGBOOST
+* Light GBM
+* Deep Learning
+* CNN
+* LSTM
+* GRU
