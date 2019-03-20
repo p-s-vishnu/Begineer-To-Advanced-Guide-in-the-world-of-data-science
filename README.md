@@ -138,16 +138,52 @@
 
 ## Very Well Explained Articles/Tutorials
 
+* Data Science
+  * [**What is Data Science**](https://www.edureka.co/blog/what-is-data-science/)
+  * [**Top 10 Data Science Applications**](https://www.edureka.co/blog/data-science-applications/)
 * Machine Learning
+  * [**Machine Learning in R for Beginners with Example**](https://www.edureka.co/blog/machine-learning-with-r/)
+  * [**Machine Learning Algorithms**](https://www.edureka.co/blog/machine-learning-algorithms/)
 * Linear Regression
+  * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
 * Logistic Regression
+  * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
 * Support Vector Machine(SVM)
-* K-Mean Algorithm
+* Naive Bayes Classifier
+  * [**Introduction to Classification Algorithms**](https://www.edureka.co/blog/classification-algorithms/)
+* K-Means Clustring Algorithm
+  * [**K-means Clustering Algorithm: Know How It Works**](https://www.edureka.co/blog/k-means-clustering-algorithm/)
 * K-Nearest Algorithm
 * Principal Component Analysis(PCA)
+* Decision Tree
+  * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
+  * [**How To Create A Perfect Decision Tree?**](https://www.edureka.co/blog/decision-trees/)
+* Random Forest
+  * [**A Comprehensive Guide To Random Forest In R**](https://www.edureka.co/blog/random-forest-classifier/)
 * XGBOOST
 * Light GBM
 * Deep Learning
 * CNN
 * LSTM
 * GRU
+* Data Science Interview Questions
+  * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
+  * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
+  * [**20 Python Interview Questions and Answers—Start Preparing for Your Ideal Job**](https://www.springboard.com/blog/python-interview-questions/)
+  * [**41 Essential Machine Learning Interview Questions (with answers)**](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
+* Probability And Statistics
+  * [**40 Questions on Probability for data science**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
+
+* Questions I'm asking in interviews
+  * [**Questions I'm asking in interviews**](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+  * [**Questions to Ask**](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+  
+* Python
+  * [**Python Tricks 101**](https://hackernoon.com/python-tricks-101-2836251922e0)
+  
+* Algorithm and Data Structure
+  * [**Tech Interview Handbook**](https://github.com/ashoklathwal/tech-interview-handbook)
+  * [**Code for Interview**](https://github.com/ashoklathwal/Code-for-Interview)
+  
+  
