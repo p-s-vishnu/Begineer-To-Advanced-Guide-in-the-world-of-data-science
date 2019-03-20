@@ -144,21 +144,31 @@
 * Machine Learning
   * [**Machine Learning in R for Beginners with Example**](https://www.edureka.co/blog/machine-learning-with-r/)
   * [**Machine Learning Algorithms**](https://www.edureka.co/blog/machine-learning-algorithms/)
+  * [**Top 10 Applications of Machine Learning : Machine Learning Applications in Daily Life**](https://www.edureka.co/blog/machine-learning-applications/)
 * Linear Regression
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#simple-linear-regression--day-2)
   * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
 * Logistic Regression
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)
   * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
 * Support Vector Machine(SVM)
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#support-vector-machines--day-12)
 * Naive Bayes Classifier
   * [**Introduction to Classification Algorithms**](https://www.edureka.co/blog/classification-algorithms/)
 * K-Means Clustring Algorithm
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-means-clustering--day-43)
   * [**K-means Clustering Algorithm: Know How It Works**](https://www.edureka.co/blog/k-means-clustering-algorithm/)
+* Hierarchical Clustering  
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#hierarchical-clustering--day-54)
 * K-Nearest Algorithm
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)
 * Principal Component Analysis(PCA)
 * Decision Tree
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
   * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
   * [**How To Create A Perfect Decision Tree?**](https://www.edureka.co/blog/decision-trees/)
 * Random Forest
+  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#random-forests--day-33)
   * [**A Comprehensive Guide To Random Forest In R**](https://www.edureka.co/blog/random-forest-classifier/)
 * XGBOOST
 * Light GBM
@@ -180,7 +190,12 @@
   * [**Questions to Ask**](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
   
 * Python
+  * [**Python Classes And Objects – Object Oriented Programming**](https://www.edureka.co/blog/python-class/)
+  * [**Cheat Sheet To Python RegEx With Examples**](https://www.edureka.co/blog/python-regex/)
   * [**Python Tricks 101**](https://hackernoon.com/python-tricks-101-2836251922e0)
+  * [**Why You Should Choose Python For Big Data**](https://www.edureka.co/blog/why-you-should-choose-python-for-big-data)
+  * [**A Beginner’s Guide to learn web scraping with python!**](https://www.edureka.co/blog/web-scraping-with-python/)
+  * 
   
 * Algorithm and Data Structure
   * [**Tech Interview Handbook**](https://github.com/ashoklathwal/tech-interview-handbook)
