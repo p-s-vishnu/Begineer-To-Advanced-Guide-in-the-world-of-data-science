@@ -148,6 +148,7 @@
 * Linear Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#simple-linear-regression--day-2)
   * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
+  * [**Complete Linear Regression with Math**](https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23)
 * Logistic Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)
   * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
