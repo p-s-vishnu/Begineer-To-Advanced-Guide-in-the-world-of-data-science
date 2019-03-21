@@ -147,8 +147,14 @@
   * [**Top 10 Applications of Machine Learning : Machine Learning Applications in Daily Life**](https://www.edureka.co/blog/machine-learning-applications/)
 * Linear Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#simple-linear-regression--day-2)
-  * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
   * [**Complete Linear Regression with Math**](https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23)
+  * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
+  * [**Evaluating a Linear Regression Model**](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
+  * [**7 Types of Regression Techniques you should know!**](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/?utm_source=blog&utm_medium=RideandLassoRegressionarticle)
+  * [**A Complete Tutorial on Ridge and Lasso Regression in Python**](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
+  * [**Accurately Measuring Model Prediction Error**](http://scott.fortmann-roe.com/docs/MeasuringError.html#fnref:5)
+  * [**Understanding the Bias-Variance Tradeoff**](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  * [**45 questions to test a Data Scientist on Regression (Skill test – Regression Solution)**](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
 * Logistic Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)
   * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
