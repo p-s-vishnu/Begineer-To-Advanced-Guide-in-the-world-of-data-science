@@ -145,6 +145,7 @@
   * [**Machine Learning in R for Beginners with Example**](https://www.edureka.co/blog/machine-learning-with-r/)
   * [**Machine Learning Algorithms**](https://www.edureka.co/blog/machine-learning-algorithms/)
   * [**Top 10 Applications of Machine Learning : Machine Learning Applications in Daily Life**](https://www.edureka.co/blog/machine-learning-applications/)
+  * [**40 Questions to test a data scientist on Machine Learning [Solution: SkillPower – Machine Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/)
 * Linear Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#simple-linear-regression--day-2)
   * [**Complete Linear Regression with Math**](https://medium.com/deep-math-machine-learning-ai/chapter-1-complete-linear-regression-with-math-25b2639dde23)
@@ -154,12 +155,16 @@
   * [**A Complete Tutorial on Ridge and Lasso Regression in Python**](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
   * [**Accurately Measuring Model Prediction Error**](http://scott.fortmann-roe.com/docs/MeasuringError.html#fnref:5)
   * [**Understanding the Bias-Variance Tradeoff**](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  * [**30 Questions to test a data scientist on Linear Regression [Solution: Skilltest – Linear Regression]**](https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/)
   * [**45 questions to test a Data Scientist on Regression (Skill test – Regression Solution)**](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
 * Logistic Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#logistic-regression--day-4)
   * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
+  * [**7 Important Model Evaluation Error Metrics Everyone should know**](https://www.analyticsvidhya.com/blog/2016/02/7-important-model-evaluation-error-metrics/)
+  * [**30 Questions to test your understanding of Logistic Regression**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)
 * Support Vector Machine(SVM)
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#support-vector-machines--day-12)
+  * [**25 Questions to test a Data Scientist on Support Vector Machines**](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * Naive Bayes Classifier
   * [**Introduction to Classification Algorithms**](https://www.edureka.co/blog/classification-algorithms/)
 * K-Means Clustring Algorithm
@@ -170,19 +175,28 @@
 * K-Nearest Algorithm
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)
 * Principal Component Analysis(PCA)
-* Decision Tree
-  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
-  * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
-  * [**How To Create A Perfect Decision Tree?**](https://www.edureka.co/blog/decision-trees/)
-* Random Forest
-  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#random-forests--day-33)
-  * [**A Comprehensive Guide To Random Forest In R**](https://www.edureka.co/blog/random-forest-classifier/)
-* XGBOOST
-* Light GBM
+  * [**Beginners Guide To Learn Dimension Reduction Techniques**](https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/)
+* Tree Based Modeling  
+  * Decision Tree
+     * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
+     * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
+     * [**How To Create A Perfect Decision Tree?**](https://www.edureka.co/blog/decision-trees/)
+  * Random Forest
+     * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#random-forests--day-33)
+     * [**A Comprehensive Guide To Random Forest In R**](https://www.edureka.co/blog/random-forest-classifier/)
+  * XGBOOST
+  * Light GBM
+  * [**30 Questions to test a data scientist on Tree Based Models**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
+  * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
+
 * Deep Learning
+  * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
+  * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
 * CNN
 * LSTM
 * GRU
+* Text Classification in Python 
+  * [**A Comprehensive Guide to Understand and Implement Text Classification in Python**](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
 * Data Science Interview Questions
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
