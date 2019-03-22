@@ -149,6 +149,8 @@
 * Linear Regression
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#simple-linear-regression--day-2)
   * [**The math behind linear regression(Math 1)**](https://www.linkedin.com/pulse/math-behind-linear-regression-enrico-d-urso/)
+  8 [**Derive the Linear Regression**](https://towardsdatascience.com/big4-tech-interview-question-derive-the-linear-regression-c45ccdd213e3)
+  * [**Difference between Batch Gradient Descent and Stochastic Gradient Descent**](https://towardsdatascience.com/difference-between-batch-gradient-descent-and-stochastic-gradient-descent-1187f1291aa1)
   * [**A Complete Tutorial on Ridge and Lasso Regression in Python(Math 2)**](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
   * [**A Step By Step Guide To Linear Regression In R**](https://www.edureka.co/blog/linear-regression-in-r/)
   * [**Evaluating a Linear Regression Model**](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
