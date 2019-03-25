@@ -170,6 +170,7 @@
   * [**So you built a Machine Learning model?(Bias and Varience)**](http://sourabhbajaj.com/blog/2017/03/16/so-you-built-a-machine-learning-model/)
   * [**Choosing the Right Metric for Evaluating Machine Learning Models — Part 2(Classification)**](https://towardsdatascience.com/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
   * [**Why is AUC a better measure of an algorithm's performance than accuracy?**](https://www.quora.com/Why-is-AUC-a-better-measure-of-an-algorithms-performance-than-accuracy)
+  * [**Simple guide to confusion matrix terminology**](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
   * [**30 Questions to test your understanding of Logistic Regression**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-logistic-regression/)
   * [**Must-know Machine Learning Questions – Logistic Regression**](https://www.upgrad.com/blog/machine-learning-interview/)
 * Support Vector Machine(SVM)
