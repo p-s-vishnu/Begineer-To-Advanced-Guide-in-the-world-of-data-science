@@ -175,6 +175,9 @@
   * [**Must-know Machine Learning Questions – Logistic Regression**](https://www.upgrad.com/blog/machine-learning-interview/)
 * Support Vector Machine(SVM)
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#support-vector-machines--day-12)
+  * [**Support Vector machine with Math**](https://medium.com/deep-math-machine-learning-ai/chapter-3-support-vector-machine-with-math-47d6193c82be)
+  * [**Demystifying Maths of SVM**](https://towardsdatascience.com/demystifying-maths-of-svm-13ccfe00091e)
+  * [**Understanding the mathematics behind Support Vector Machines**](https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/)
   * [**25 Questions to test a Data Scientist on Support Vector Machines**](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * Naive Bayes Classifier
   * [**Introduction to Classification Algorithms**](https://www.edureka.co/blog/classification-algorithms/)
@@ -222,6 +225,7 @@
   * [**Questions to Ask**](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
   
 * Python
+  * [**How to Write Beautiful Python Code With PEP 8**](https://realpython.com/python-pep8/)
   * [**Python Classes And Objects – Object Oriented Programming**](https://www.edureka.co/blog/python-class/)
   * [**Cheat Sheet To Python RegEx With Examples**](https://www.edureka.co/blog/python-regex/)
   * [**Python Tricks 101**](https://hackernoon.com/python-tricks-101-2836251922e0)
