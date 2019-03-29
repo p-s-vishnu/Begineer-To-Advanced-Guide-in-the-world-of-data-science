@@ -191,6 +191,7 @@
   * [**K-means Clustering Andrew Ng**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Clustering/Clustering.pdf)
   * [**K-means Clustering Algorithm: Know How It Works**](https://www.edureka.co/blog/k-means-clustering-algorithm/)
   * [**hierarchical clustering**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Clustering/k%20means%20and%20hierarchical%20clustering.pdf)
+  * [**40 Questions to test a Data Scientist on Clustering Techniques (Skill test Solution)[MUST]**](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
 * K-Nearest Algorithm
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)
 * Principal Component Analysis(PCA)
