@@ -166,6 +166,7 @@
   * [**45 questions to test a Data Scientist on Regression (Skill test – Regression Solution)**](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
   * [**Must-know Machine Learning Questions – Linear Regression**](https://www.upgrad.com/blog/must-know-machine-learning-questions-linear-regression/)
 * Logistic Regression
+  * [**Machine Learning Feature Selection: a collection of 9+1 techniques**](https://gsarantitis.wordpress.com/2019/03/26/machine-learning-feature-selection-a-collection-of-91-techniques/)
   * [**Comprehensive Guide To Logistic Regression In R**](https://www.edureka.co/blog/logistic-regression-in-r/)
   * [**Math Logistics Regression Andrew Ng**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Logistic%20regression/Logistics%20Regression%20Math%20Logistics%20Regression.pdf)
   * [**Machine Learning System Design**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Logistic%20regression/Machine_Learning_System_Design.pdf)
@@ -183,13 +184,13 @@
   * [**KKT Conditions Mathematics**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Support%20Vector%20Machines%20(SVMs)/KKT%20conditions.pdf)
   * [**25 Questions to test a Data Scientist on Support Vector Machines**](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * Naive Bayes Classifier
-  * [**Naive Bayes Algorithm **](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+  * [**Naive Bayes Algorithm**](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
   * [**Laplace Smoothing**](https://stats.stackexchange.com/questions/108797/in-naive-bayes-why-bother-with-laplace-smoothing-when-we-have-unknown-words-in)
-* K-Means Clustring Algorithm
-  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-means-clustering--day-43)
+  * [**Discriminative vs Generative model**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Naive%20Bayes/Discriminative%20vs%20Generative%20model_1.pdf)
+* Clustering
+  * [**K-means Clustering Andrew Ng**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Clustering/Clustering.pdf)
   * [**K-means Clustering Algorithm: Know How It Works**](https://www.edureka.co/blog/k-means-clustering-algorithm/)
-* Hierarchical Clustering  
-  * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#hierarchical-clustering--day-54)
+  * [**hierarchical clustering**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Clustering/k%20means%20and%20hierarchical%20clustering.pdf)
 * K-Nearest Algorithm
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)
 * Principal Component Analysis(PCA)
