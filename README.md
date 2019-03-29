@@ -183,7 +183,8 @@
   * [**KKT Conditions Mathematics**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Support%20Vector%20Machines%20(SVMs)/KKT%20conditions.pdf)
   * [**25 Questions to test a Data Scientist on Support Vector Machines**](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * Naive Bayes Classifier
-  * [**Introduction to Classification Algorithms**](https://www.edureka.co/blog/classification-algorithms/)
+  * [**Naive Bayes Algorithm **](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+  * [**Laplace Smoothing**](https://stats.stackexchange.com/questions/108797/in-naive-bayes-why-bother-with-laplace-smoothing-when-we-have-unknown-words-in)
 * K-Means Clustring Algorithm
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-means-clustering--day-43)
   * [**K-means Clustering Algorithm: Know How It Works**](https://www.edureka.co/blog/k-means-clustering-algorithm/)
