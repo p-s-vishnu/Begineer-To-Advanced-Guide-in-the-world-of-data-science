@@ -198,8 +198,12 @@
   * [**How to choose K value in KNN**](https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm/55427856#55427856)
   * Curse Of Dimensionality Explained [**Curse Of Dimensionality Explained**](https://towardsdatascience.com/curse-of-dimensionality-2092410f3d27) [**Explain Curse of dimensionality to a child**](https://stats.stackexchange.com/questions/169156/explain-curse-of-dimensionality-to-a-child)
   * [**30 Questions to test a data scientist on K-Nearest Neighbors (kNN) Algorithm**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
-* Principal Component Analysis(PCA)
-  * [**Beginners Guide To Learn Dimension Reduction Techniques**](https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/)
+* Dimensionality Reduction
+  * [**The Ultimate Guide to 12 Dimensionality Reduction Techniques**](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+  * [**Variance And Co-variance**](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
+  * [**Principal Component Analysis Tutorial**](https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial)
+  * [**Intuitive Guide to Latent Dirichlet Allocation**](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
+  * [**40 Must know Questions to test a data scientist on Dimensionality Reduction techniques**](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
 * Tree Based Modeling  
   * Decision Tree
      * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
