@@ -203,6 +203,7 @@
   * [**Variance And Co-variance**](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0)
   * [**Principal Component Analysis Tutorial**](https://www.dezyre.com/data-science-in-python-tutorial/principal-component-analysis-tutorial)
   * [**Intuitive Guide to Latent Dirichlet Allocation**](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158)
+  * [**Anomaly Detection**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Anomaly%20Detection/Anomaly_Detection.pdf)
   * [**40 Must know Questions to test a data scientist on Dimensionality Reduction techniques**](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
 * Tree Based Modeling  
   * Decision Tree
