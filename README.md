@@ -194,6 +194,9 @@
   * [**40 Questions to test a Data Scientist on Clustering Techniques (Skill test Solution)[MUST]**](https://www.analyticsvidhya.com/blog/2017/02/test-data-scientist-clustering/)
 * K-Nearest Algorithm
   * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#k-nearest-neighbours--day-7)
+  * [**Introduction to k-Nearest Neighbors**](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+  * [**How to choose K value in KNN**](https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm/55427856#55427856)
+  * Curse Of Dimensionality Explained [**Curse Of Dimensionality Explained**](https://towardsdatascience.com/curse-of-dimensionality-2092410f3d27) [**Explain Curse of dimensionality to a child**](https://stats.stackexchange.com/questions/169156/explain-curse-of-dimensionality-to-a-child)
 * Principal Component Analysis(PCA)
   * [**Beginners Guide To Learn Dimension Reduction Techniques**](https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/)
 * Tree Based Modeling  
