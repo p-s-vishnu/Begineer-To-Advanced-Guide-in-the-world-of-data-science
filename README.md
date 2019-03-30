@@ -197,6 +197,7 @@
   * [**Introduction to k-Nearest Neighbors**](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
   * [**How to choose K value in KNN**](https://stackoverflow.com/questions/11568897/value-of-k-in-k-nearest-neighbor-algorithm/55427856#55427856)
   * Curse Of Dimensionality Explained [**Curse Of Dimensionality Explained**](https://towardsdatascience.com/curse-of-dimensionality-2092410f3d27) [**Explain Curse of dimensionality to a child**](https://stats.stackexchange.com/questions/169156/explain-curse-of-dimensionality-to-a-child)
+  * [**30 Questions to test a data scientist on K-Nearest Neighbors (kNN) Algorithm**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/)
 * Principal Component Analysis(PCA)
   * [**Beginners Guide To Learn Dimension Reduction Techniques**](https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/)
 * Tree Based Modeling  
