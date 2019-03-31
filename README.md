@@ -206,15 +206,11 @@
   * [**Anomaly Detection**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Anomaly%20Detection/Anomaly_Detection.pdf)
   * [**40 Must know Questions to test a data scientist on Dimensionality Reduction techniques**](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
 * Tree Based Modeling  
-  * Decision Tree
-     * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
-     * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
-     * [**How To Create A Perfect Decision Tree?**](https://www.edureka.co/blog/decision-trees/)
-  * Random Forest
-     * [**100 Days of ML Coding**](https://github.com/Avik-Jain/100-Days-Of-ML-Code#random-forests--day-33)
-     * [**A Comprehensive Guide To Random Forest In R**](https://www.edureka.co/blog/random-forest-classifier/)
-  * XGBOOST
-  * Light GBM
+  * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
+  * [**A Comprehensive Guide to Ensemble Learning **](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=linkedin.com)
+  * [**Complete Guide to Parameter Tuning in XGBoost**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+  * [**Which algorithm takes the crown: Light GBM vs XGBOOST?**](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)
+  * [**Step By Step Gradient Boosting Algorithm**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Decision%20Tree/gradient%20boosting%20algorithm%20step%20by%20step.pdf)
   * [**30 Questions to test a data scientist on Tree Based Models**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
   * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
 
