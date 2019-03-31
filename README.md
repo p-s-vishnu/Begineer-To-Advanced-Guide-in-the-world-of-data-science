@@ -225,7 +225,6 @@
 * Data Science Interview Questions
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
-  * [**20 Python Interview Questions and Answers—Start Preparing for Your Ideal Job**](https://www.springboard.com/blog/python-interview-questions/)
   * [**41 Essential Machine Learning Interview Questions (with answers)**](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
 * Probability And Statistics
@@ -237,12 +236,8 @@
   
 * Python
   * [**How to Write Beautiful Python Code With PEP 8**](https://realpython.com/python-pep8/)
-  * [**Python Classes And Objects – Object Oriented Programming**](https://www.edureka.co/blog/python-class/)
-  * [**Cheat Sheet To Python RegEx With Examples**](https://www.edureka.co/blog/python-regex/)
   * [**Python Tricks 101**](https://hackernoon.com/python-tricks-101-2836251922e0)
-  * [**Why You Should Choose Python For Big Data**](https://www.edureka.co/blog/why-you-should-choose-python-for-big-data)
-  * [**A Beginner’s Guide to learn web scraping with python!**](https://www.edureka.co/blog/web-scraping-with-python/)
-  * 
+  * [**20 Python Interview Questions and Answers—Start Preparing for Your Ideal Job**](https://www.springboard.com/blog/python-interview-questions/)
   
 * Algorithm and Data Structure
   * [**Tech Interview Handbook**](https://github.com/ashoklathwal/tech-interview-handbook)
