@@ -214,6 +214,13 @@
   * [**Step By Step Gradient Boosting Algorithm**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Decision%20Tree/gradient%20boosting%20algorithm%20step%20by%20step.pdf)
   * [**30 Questions to test a data scientist on Tree Based Models**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
   * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
+* Probability And Statistics
+  * Bayes Theorem Explanation and Examples
+  * Central Limit Theorem
+  * Hypothesis Testing(P values, Type 1, 2 Error, Test of Significance)
+  * Z value, T value
+  * A/B Testing
+  * [**40 Questions on Probability for data science**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)  
 
 * Deep Learning
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
@@ -227,10 +234,7 @@
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
   * [**41 Essential Machine Learning Interview Questions (with answers)**](https://www.springboard.com/blog/machine-learning-interview-questions/)
-
-* Probability And Statistics
-  * [**40 Questions on Probability for data science**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
-
+  
 * Questions I'm asking in interviews
   * [**Questions I'm asking in interviews**](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
   * [**Questions to Ask**](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
