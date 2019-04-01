@@ -185,6 +185,7 @@
   * [**25 Questions to test a Data Scientist on Support Vector Machines**](https://www.analyticsvidhya.com/blog/2017/10/svm-skilltest/)
 * Naive Bayes Classifier
   * [**Naive Bayes Algorithm**](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+  * [**what is naive in a naive bayes classifier ?**](https://stackoverflow.com/questions/10614754/what-is-naive-in-a-naive-bayes-classifier)
   * [**Laplace Smoothing**](https://stats.stackexchange.com/questions/108797/in-naive-bayes-why-bother-with-laplace-smoothing-when-we-have-unknown-words-in)
   * [**Discriminative vs Generative model**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Naive%20Bayes/Discriminative%20vs%20Generative%20model_1.pdf)
 * Clustering
@@ -207,7 +208,7 @@
   * [**40 Must know Questions to test a data scientist on Dimensionality Reduction techniques**](https://www.analyticsvidhya.com/blog/2017/03/questions-dimensionality-reduction-data-scientist/)
 * Tree Based Modeling  
   * [**A Complete Guide On Decision Tree Algorithm**](https://www.edureka.co/blog/decision-tree-algorithm/)
-  * [**A Comprehensive Guide to Ensemble Learning **](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=linkedin.com)
+  * [**A Comprehensive Guide to Ensemble Learning**](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/?utm_source=linkedin.com)
   * [**Complete Guide to Parameter Tuning in XGBoost**](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
   * [**Which algorithm takes the crown: Light GBM vs XGBOOST?**](https://www.analyticsvidhya.com/blog/2017/06/which-algorithm-takes-the-crown-light-gbm-vs-xgboost/)
   * [**Step By Step Gradient Boosting Algorithm**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Decision%20Tree/gradient%20boosting%20algorithm%20step%20by%20step.pdf)
