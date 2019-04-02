@@ -223,9 +223,17 @@
   * [**40 Questions on Probability for data science**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)  
 
 * Deep Learning
+  * Convolutional Neural Network
+    * [**Neural Network Representation and Why Neural Networks(Andrew Ng)**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Neural%20Network/08_Neural_Networks_Representation.pdf)
+    * [**Neural Networks Learning(Andrew Ng)**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Neural%20Network/Neural_Networks_Learning.pdf)
+    * [**The best explanation of Convolutional Neural Networks on the Internet!**](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+    * [**Understanding of of CNN**](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+    * [**How CNN Algorithm Works ??**](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+    * Activation Functions
+      * [**Sigmoid vs Tanh vs ReLu**](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
+      * [**Softmax**](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
-* CNN
 * LSTM
 * GRU
 * Text Classification in Python 
