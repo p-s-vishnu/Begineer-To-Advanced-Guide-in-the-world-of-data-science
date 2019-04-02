@@ -232,12 +232,16 @@
     * Activation Functions
       * [**Sigmoid vs Tanh vs ReLu**](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
       * [**Softmax**](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
+  * Text Classification
+    * [**A Comprehensive Guide to Understand and Implement Text Classification in Python**](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
+    * [**Practical Text Classification With Python and Keras**](https://realpython.com/python-keras-text-classification/#convolutional-neural-networks-cnn)
+    * [**Introduction to Long Short Term Memory**](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
+    * [**Understanding LSTM Networks**](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
 * LSTM
 * GRU
-* Text Classification in Python 
-  * [**A Comprehensive Guide to Understand and Implement Text Classification in Python**](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
+* [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
 * Data Science Interview Questions
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
