@@ -229,14 +229,17 @@
     * [**The best explanation of Convolutional Neural Networks on the Internet!**](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
     * [**Understanding of of CNN**](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
     * [**How CNN Algorithm Works ??**](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+    * [**The Vanishing Gradient Problem**](https://towardsdatascience.com/the-vanishing-gradient-problem-69bf08b15484)
     * Activation Functions
       * [**Sigmoid vs Tanh vs ReLu**](https://ml-cheatsheet.readthedocs.io/en/latest/activation_functions.html)
       * [**Softmax**](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
   * Text Classification
     * [**A Comprehensive Guide to Understand and Implement Text Classification in Python**](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/)
     * [**Practical Text Classification With Python and Keras**](https://realpython.com/python-keras-text-classification/#convolutional-neural-networks-cnn)
-    * [**Introduction to Long Short Term Memory**](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/)
     * [**Understanding LSTM Networks**](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+    * [**LSTM vs GRU**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Deep%20Learning/Differences%20between%20LSTM%20and%20GRU%20-%20Hands-On%20Neural%20Network%20Programming%20with%20C%23.pdf)
+    * [**What's the difference between a bidirectional LSTM and an LSTM?**](https://stackoverflow.com/questions/43035827/whats-the-difference-between-a-bidirectional-lstm-and-an-lstm)
+    
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
 * LSTM
