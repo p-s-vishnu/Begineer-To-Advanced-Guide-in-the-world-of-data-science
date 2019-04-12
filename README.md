@@ -214,7 +214,15 @@
   * [**Step By Step Gradient Boosting Algorithm**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Decision%20Tree/gradient%20boosting%20algorithm%20step%20by%20step.pdf)
   * [**30 Questions to test a data scientist on Tree Based Models**](https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/)
   * [**45 questions to test Data Scientists on Tree Based Algorithms (Decision tree, Random Forests, XGBoost)**](https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/)
+* [**Kaggle Days Paris - GBDT workshop**](https://www.kaggle.com/codename007/kaggle-days-paris-gbdt-workshop) 
+* Scalable and Interpretable Machine Learning
+  * How to handle imbalanced dataset
+  * How to handle large dataset
+  * How to Interprete Machine Learning Models
+     * [**Interpretable Machine Learning**](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
+
 * Probability And Statistics
+  * [**Probability and Statistics for Data Science Part-1**](https://towardsdatascience.com/probability-and-statistics-for-data-science-part-1-3eed6051c40d)
   * Bayes Theorem Explanation and Examples
   * Central Limit Theorem
   * Hypothesis Testing(P values, Type 1, 2 Error, Test of Significance)
@@ -239,12 +247,17 @@
     * [**Understanding LSTM Networks**](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
     * [**LSTM vs GRU**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Deep%20Learning/Differences%20between%20LSTM%20and%20GRU%20-%20Hands-On%20Neural%20Network%20Programming%20with%20C%23.pdf)
     * [**What's the difference between a bidirectional LSTM and an LSTM?**](https://stackoverflow.com/questions/43035827/whats-the-difference-between-a-bidirectional-lstm-and-an-lstm)
-    
+  * Autoencoder
+    * [**Building Autoencoders in Keras**](https://blog.keras.io/building-autoencoders-in-keras.html)
+    * [**Autoencoders Tutorial : A Beginner’s Guide to Autoencoders**](https://www.edureka.co/blog/autoencoders-tutorial/)
+  * Pytorch
+    * [**Pytorch Introduction**](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py)
+    * [**Keras vs TensorFlow vs PyTorch**](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
+    * About CUDA
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
-* LSTM
-* GRU
-* [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
+  * [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
+  
 * Data Science Interview Questions
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
@@ -258,6 +271,9 @@
   * [**How to Write Beautiful Python Code With PEP 8**](https://realpython.com/python-pep8/)
   * [**Python Tricks 101**](https://hackernoon.com/python-tricks-101-2836251922e0)
   * [**20 Python Interview Questions and Answers—Start Preparing for Your Ideal Job**](https://www.springboard.com/blog/python-interview-questions/)
+* Flask
+  * [**Designing a RESTful API with Python and Flask**](https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+  * [**https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask**](https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c)
   
 * Algorithm and Data Structure
   * [**Tech Interview Handbook**](https://github.com/ashoklathwal/tech-interview-handbook)
