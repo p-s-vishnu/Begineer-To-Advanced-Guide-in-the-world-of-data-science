@@ -255,6 +255,7 @@
     * [**Pytorch Introduction**](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py)
     * [**Keras vs TensorFlow vs PyTorch**](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
     * [**Pytorch Tutorial**](https://github.com/ashoklathwal/Begineer-To-Advanced-Guide-in-the-world-of-data-science/blob/master/Deep%20Learning/Pytorch%20Tutorial.pdf)
+    * [**CUDA(Compute Unified Device Architecture)**](https://en.wikipedia.org/wiki/CUDA)
   * [**30 Questions to test a Data Scientist on Deep Learning (Solution – Skill test)**](https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/)
   * [**40 Questions to test a data scientist on Deep Learning [Solution: SkillPower – Deep Learning]**](https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/)
   * [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
