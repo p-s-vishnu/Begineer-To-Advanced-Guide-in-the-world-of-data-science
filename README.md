@@ -223,6 +223,7 @@
 
 * Probability And Statistics
   * [**Probability and Statistics for Data Science Part-1**](https://towardsdatascience.com/probability-and-statistics-for-data-science-part-1-3eed6051c40d)
+  * [**Statistics Cheat Sheet**](https://github.com/ashoklathwal/Data-Science-Cheat-Sheet-For-Everyone/blob/master/Probabilty%20And%20Statistics/Statistics%20Crash%20Course.pdf)
   * Bayes Theorem Explanation and Examples
   * Central Limit Theorem
   * Hypothesis Testing(P values, Type 1, 2 Error, Test of Significance)
