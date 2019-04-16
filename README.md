@@ -282,3 +282,9 @@
   * [**Code for Interview**](https://github.com/ashoklathwal/Code-for-Interview)
   
   
+* Interview Preparation Videos 
+  * [**Refine Your Resume**](https://classroom.udacity.com/courses/ud243)
+  * [**Data Science Interview Preparation**](https://classroom.udacity.com/courses/ud944)
+  * [**Machine Learning Interview Preparation**](https://in.udacity.com/course/machine-learning-interview-prep--ud1001)
+  * [**A/B Testing**](https://in.udacity.com/course/ab-testing--ud257)
+  
