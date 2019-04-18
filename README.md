@@ -261,6 +261,7 @@
   * [**Practical guide to hyperparameters search for deep learning models**](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/)
   
 * Data Science Interview Questions
+  * [**21 Machine Learning Interview Questions and Answers**](https://elitedatascience.com/machine-learning-interview-questions-answers)
   * [**Top 45 Data Science Interview Questions You Must Prepare In 2019**](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
   * [**109 Data Science Interview Questions and Answers for 2019**](https://www.springboard.com/blog/data-science-interview-questions/)
   * [**41 Essential Machine Learning Interview Questions (with answers)**](https://www.springboard.com/blog/machine-learning-interview-questions/)
